@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/superheroes-app/static/css/main.36f38061.css",
+    "main.js": "/superheroes-app/static/js/main.3526b818.js",
+    "index.html": "/superheroes-app/index.html",
+    "main.36f38061.css.map": "/superheroes-app/static/css/main.36f38061.css.map",
+    "main.3526b818.js.map": "/superheroes-app/static/js/main.3526b818.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f38061.css",
+    "static/js/main.3526b818.js"
+  ]
+}
