@@ -21,4 +21,4 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 # Template
-[alt text](https://github.com/Talhakhan-Developer/superheroes-app/blob/main/public/Superheroes.png?raw=true)
+![Superheroes](https://user-images.githubusercontent.com/81566044/187192302-0cf8d1ce-a975-4fcd-9953-e0544d7fbde1.png)
